@@ -14,3 +14,5 @@ These datasets are generated through data augmentation and random down‑samplin
 
 4. Traditional classification‑style dataset (YOLO format).  
 This dataset serves as a control group in our study. It follows a conventional classification scheme where adult and larval stages are not treated as separate categories. Users aiming to reproduce our comparative experiments or requiring a simplified taxonomy may use this version.
+
+The download link for the dataset is https://www.kaggle.com/datasets/dingbiao11/eo19-a-large-dataset-for-insect-identification
